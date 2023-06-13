@@ -6,7 +6,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class KelimeTahminOyunu {
-    /*Kelime Tahmin Oyunu
+    /*Kelime Tahmin Oyunu (Adam asmaca oyunu)
     Kullanıcının bir kelimeyi harf harf tahmin ederek doğru kelimeyi bulmasını sağlayan bir oyun geliştirin.
     Oyun şu adımları içermelidir:
 
